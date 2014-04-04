@@ -1,0 +1,6 @@
+380:0:H Latias
+381:0:H Latios
+380:1:M Mega Latias
+381:1:M Mega Latios
+670:1 Floette (E)
+719:0 Diancie

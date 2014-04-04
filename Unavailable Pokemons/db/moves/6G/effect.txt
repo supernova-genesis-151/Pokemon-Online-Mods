@@ -1,0 +1,3 @@
+610 Target is left at 1 HP if this attack would KO.
+611 Has a 50% chance to raise the user's Defense by one stage. 
+612 User receives 1/2 the damage inflicted as recoil.
